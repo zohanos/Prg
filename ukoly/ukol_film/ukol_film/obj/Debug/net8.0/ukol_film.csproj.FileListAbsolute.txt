@@ -1,0 +1,14 @@
+C:\Users\andrle\source\repos\ukol_film\ukol_film\bin\Debug\net8.0\ukol_film.exe
+C:\Users\andrle\source\repos\ukol_film\ukol_film\bin\Debug\net8.0\ukol_film.deps.json
+C:\Users\andrle\source\repos\ukol_film\ukol_film\bin\Debug\net8.0\ukol_film.runtimeconfig.json
+C:\Users\andrle\source\repos\ukol_film\ukol_film\bin\Debug\net8.0\ukol_film.dll
+C:\Users\andrle\source\repos\ukol_film\ukol_film\bin\Debug\net8.0\ukol_film.pdb
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.AssemblyInfoInputs.cache
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.AssemblyInfo.cs
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.csproj.CoreCompileInputs.cache
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.dll
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\refint\ukol_film.dll
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.pdb
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ukol_film.genruntimeconfig.cache
+C:\Users\andrle\source\repos\ukol_film\ukol_film\obj\Debug\net8.0\ref\ukol_film.dll

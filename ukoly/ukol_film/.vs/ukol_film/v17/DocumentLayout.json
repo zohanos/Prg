@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrle\\source\\repos\\ukol_film\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB708E4-DB73-43CF-BB98-F6BDB34428BA}|ukol_film\\ukol_film.csproj|c:\\users\\andrle\\source\\repos\\ukol_film\\ukol_film\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB708E4-DB73-43CF-BB98-F6BDB34428BA}|ukol_film\\ukol_film.csproj|solutionrelative:ukol_film\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrle\\source\\repos\\ukol_film\\ukol_film\\Program.cs",
+              "RelativeDocumentMoniker": "ukol_film\\Program.cs",
+              "ToolTip": "C:\\Users\\andrle\\source\\repos\\ukol_film\\ukol_film\\Program.cs",
+              "RelativeToolTip": "ukol_film\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:29:37.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
