@@ -1,0 +1,15 @@
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.exe
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.deps.json
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.runtimeconfig.json
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.dll
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.pdb
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.GeneratedMSBuildEditorConfig.editorconfig
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.AssemblyInfoInputs.cache
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.AssemblyInfo.cs
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.csproj.CoreCompileInputs.cache
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.sourcelink.json
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.dll
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\refint\Beast_in_Labyrint.dll
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.pdb
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.genruntimeconfig.cache
+O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\ref\Beast_in_Labyrint.dll
