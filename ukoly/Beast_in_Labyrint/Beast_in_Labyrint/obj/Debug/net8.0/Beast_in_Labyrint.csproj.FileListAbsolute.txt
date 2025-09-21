@@ -13,3 +13,18 @@ O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\refint\Bea
 O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.pdb
 O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.genruntimeconfig.cache
 O:\prg\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\ref\Beast_in_Labyrint.dll
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.exe
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.deps.json
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.runtimeconfig.json
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.dll
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\bin\Debug\net8.0\Beast_in_Labyrint.pdb
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.AssemblyInfoInputs.cache
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.AssemblyInfo.cs
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.csproj.CoreCompileInputs.cache
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.sourcelink.json
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.dll
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\refint\Beast_in_Labyrint.dll
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.pdb
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\Beast_in_Labyrint.genruntimeconfig.cache
+C:\Users\lukya\OneDrive\Plocha\Nová složka\Prg\ukoly\Beast_in_Labyrint\Beast_in_Labyrint\obj\Debug\net8.0\ref\Beast_in_Labyrint.dll

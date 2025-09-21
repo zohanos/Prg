@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\prg\\Prg\\ukoly\\Beast_in_Labyrint\\",
+  "WorkspaceRootPath": "C:\\Users\\lukya\\OneDrive\\Plocha\\Nov\u00E1 slo\u017Eka\\Prg\\ukoly\\Beast_in_Labyrint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6972DF73-0D2E-49A2-8CC9-4714337C0764}|Beast_in_Labyrint\\Beast_in_Labyrint.csproj|o:\\prg\\prg\\ukoly\\beast_in_labyrint\\beast_in_labyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6972DF73-0D2E-49A2-8CC9-4714337C0764}|Beast_in_Labyrint\\Beast_in_Labyrint.csproj|c:\\users\\lukya\\onedrive\\plocha\\nov\u00E1 slo\u017Eka\\prg\\ukoly\\beast_in_labyrint\\beast_in_labyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6972DF73-0D2E-49A2-8CC9-4714337C0764}|Beast_in_Labyrint\\Beast_in_Labyrint.csproj|solutionrelative:beast_in_labyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "O:\\prg\\Prg\\ukoly\\Beast_in_Labyrint\\Beast_in_Labyrint\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukya\\OneDrive\\Plocha\\Nov\u00E1 slo\u017Eka\\Prg\\ukoly\\Beast_in_Labyrint\\Beast_in_Labyrint\\Program.cs",
               "RelativeDocumentMoniker": "Beast_in_Labyrint\\Program.cs",
-              "ToolTip": "O:\\prg\\Prg\\ukoly\\Beast_in_Labyrint\\Beast_in_Labyrint\\Program.cs",
+              "ToolTip": "C:\\Users\\lukya\\OneDrive\\Plocha\\Nov\u00E1 slo\u017Eka\\Prg\\ukoly\\Beast_in_Labyrint\\Beast_in_Labyrint\\Program.cs",
               "RelativeToolTip": "Beast_in_Labyrint\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwJwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T06:34:44.864Z",
               "EditorCaption": ""
